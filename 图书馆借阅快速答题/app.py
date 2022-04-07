@@ -280,5 +280,8 @@ class GetRootPass:
 
 
 if __name__ == "__main__":
+    print("[*] 更多信息：https://github.com/HengY1Sky/Jnu-ToolsBox")
+    print("[*] 使用方法：请先到 https://libtrain.jnu.edu.cn/ 进入学习闯关")
+    print("[*] 使用方法：之后点击跳过并进入答题激活您是初中生即可，之后填写账号密码于此运行")
     account, password = "", ""
     GetRootPass(account, password).run()
