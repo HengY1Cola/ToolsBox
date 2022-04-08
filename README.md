@@ -19,9 +19,10 @@ _✨ 由@HengY1发起与维护 ✨_
     <img src="https://img.shields.io/github/repo-size/HengY1Sky/Jnu-ToolsBox" alt="license">
   </a>
   <a href="https://github.com/HengY1Sky/JNU-ToolsBox">
-    <img src="https://img.shields.io/badge/Version-0.0.1-green" alt="license">
+    <img src="https://img.shields.io/badge/Version-0.0.2-green" alt="license">
   </a>
 </p>
+
 
 ## 项目定位 🌍
 
@@ -127,15 +128,16 @@ _✨ 由@HengY1发起与维护 ✨_
 
 ----
 
-暂无
+- [听说你组了比赛的队伍然后准备找个写程序的？](https://mp.weixin.qq.com/s/42zjXQc70o84HJlcVwV9xQ)
 
 ##  贡献者 ✨
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/HengY1Sky/JNU-ToolsBox"><img src="https://avatars.githubusercontent.com/u/98681454?v=4" width="100px;" alt=""/><br /><sub><b>HengY1</b></sub></a><br /><a href="https://github.com/HengY1Sky/JNU-ToolsBox/commits?author=HengY1Sky" title="Tests">⚠️</a> <a href="https://github.com/HengY1Sky/JNU-ToolsBox/commits?author=HengY1Sky" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/HengY1Sky/JNU-ToolsBox"><img src="https://avatars.githubusercontent.com/u/98681454?v=4" width="100px;" alt="" style="border-radius:50%"/><br /><sub><b>HengY1</b></sub></a><br /><a href="https://github.com/HengY1Sky/JNU-ToolsBox/commits?author=HengY1Sky" title="Tests">⚠️</a> <a href="https://github.com/HengY1Sky/JNU-ToolsBox/commits?author=HengY1Sky" title="Code">💻</a></td>
   </tr>
 </table>
+
 
 > This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
