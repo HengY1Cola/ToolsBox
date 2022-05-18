@@ -5,7 +5,9 @@
 </p>
 
 
+
 <div align="center">
+
 
 
 # Jnu-ToolsBox
@@ -22,6 +24,7 @@ _✨ 由@HengY1发起与维护 ✨_
     <img src="https://img.shields.io/badge/Version-0.0.2-green" alt="license">
   </a>
 </p>
+
 
 
 ## 项目定位 🌍
@@ -42,7 +45,7 @@ _✨ 由@HengY1发起与维护 ✨_
 
 - 允许第三方 / 个人**无偿使用**
 
-- *若产生纠纷等问题，由使用者**自己承担**
+- 若产生纠纷等问题，由使用者**自己承担**
 
 - 使用者需要**标注使用来源并且严格遵守开源协议**
 
@@ -63,13 +66,13 @@ _✨ 由@HengY1发起与维护 ✨_
 |       名称       |                           链接                           | 取件码 |
 | :--------------: | :------------------------------------------------------: | :----: |
 | 数据结构算法分支 | https://github.com/HengY1Sky/Jnu-ToolsBox/tree/structure |   无   |
-|   八股文电子书   |              https://yun.hengy1.top/s/JyFB               | 885ucb |
+| 八股文面试电子书 |              https://yun.hengy1.top/s/JyFB               | 885ucb |
 
 *以上的电子书本人几乎看完了，最后上传了质量不错的
 
 *在此在线求职**后端Go方向开发**，**收简历**的前辈请在ISSUE中留下邮箱（优先考虑大厂）
 
-> 本人在字节跳动后端实习中...提供修改简历，内推等服务。
+> 目前本人在字节跳动后端实习中：提供修改简历，内推等服务。
 
 ##  第三方服务 🤔
 
@@ -81,26 +84,35 @@ _✨ 由@HengY1发起与维护 ✨_
 
 🔎 文档详情：https://www.hengy1.top/service/ ｜ 👈点击查看具体接口文档
 
+🌍 APIFox在线文档：https://www.apifox.cn/apidoc/shared-8d20870a-7d59-4f28-ad08-aa1c4b97d726/api-20152758
+
 ----
 
-- **宿舍水费预警/充值系统** => https://www.hengy1.top/service/JnuWater.html
+😊 **宿舍水费预警/充值系统** => https://www.hengy1.top/service/JnuWater.html
 
-😊 注册服务后将会**在每天的 8:00AM 以及 6:00PM 检测余额是否小于30元** (仅番禺校区)
+> 注册服务后将会**在每天的 8:00AM 以及 6:00PM 检测余额是否小于30元** (仅番禺校区)
 
-- **教务系统** => https://www.hengy1.top/service/school.html
+😊 **教务系统** => https://www.hengy1.top/service/school.html
 
-😊 教务系统暂时支持**本科生系统**（研究生系统没有账号）
+> 教务系统暂时支持**本科生系统**（研究生系统没有账号）
+>
+> 教务系统连续错误5次即会锁账号，本服务错误4次即会在1小时内停止服务
 
-😊 教务系统连续错误5次即会锁账号，本服务错误4次即会在1小时内停止服务
-
-- **健康每日打卡** => https://github.com/HengY1Sky/Jnu-Stuhealth
+😊 **健康每日打卡** => https://github.com/HengY1Sky/Jnu-Stuhealth
 
 👇 以下的均在本仓库分支下的目录中（Python版本）
 
-- **青年大学习团委完成度** => 仅需要填写该团委的账号密码就好了
-- **番禺校区水费预警提醒脚本** => 面向第三方服务提供脚本（避免重复造轮子）
+😊**青年大学习团委完成度** => 仅需要填写该团委的账号密码就好了
 
-😊 预警提醒脚本使用了第三方邮箱提醒服务，填写config.py中的配置参数即可。
+😊**图书馆借阅权限答题激活** => 内置题库，自动答题
+
+😊**番禺校区水费查询源码** => 需要内网穿透才能提供公网服务
+
+😊**番禺校区水费预警提醒脚本** => 面向第三方服务提供脚本（避免重复造轮子）
+
+😊**教务系统通用方法** => 请保管好账号与密码，加强密码强度
+
+> 预警提醒脚本使用了第三方邮箱提醒服务，填写config.py中的配置参数即可。
 
 ##  绩点资料 📖
 
@@ -123,19 +135,14 @@ _✨ 由@HengY1发起与维护 ✨_
 ----
 
 - [听说你组了比赛的队伍然后准备找个写程序的？](https://mp.weixin.qq.com/s/42zjXQc70o84HJlcVwV9xQ)
+- [别再说我们缺一个程序员了](https://www.hengy1.top/article/22239f7a.html)
 
 ##  贡献者 ✨
 
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/HengY1Sky/JNU-ToolsBox"><img src="https://avatars.githubusercontent.com/u/98681454?v=4" width="100px;" alt="" style="border-radius:50%"/><br /><sub><b>HengY1</b></sub></a><br /><a href="https://github.com/HengY1Sky/JNU-ToolsBox/commits?author=HengY1Sky" title="Tests">⚠️</a> <a href="https://github.com/HengY1Sky/JNU-ToolsBox/commits?author=HengY1Sky" title="Code">💻</a></td>
-  </tr>
-</table>
-
-
-> This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+<a href="https://github.com/HengY1Sky/JNU-ToolsBox"><img src="https://avatars.githubusercontent.com/u/98681454?v=4" width="100px;" alt="" style="border-radius:50%"/></a>
 
 ##  未来计划 ⌛️
 
-- 🏷️ 一键评教（等评教开通）
-- 🏷️ 研修室预约
+- 🏷️ ~~一键评教~~
+
+> 分析了下网络请求：成本大于使用效果，还是老老实实点点鼠标吧。写是能写，但是涉及的接口有点多。
