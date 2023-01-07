@@ -123,6 +123,7 @@ _✨ 由@HengY1发起与维护 ✨_
 |     大一     | https://yun.hengy1.top/s/Xlh8 | 8gzf1m |
 |    大二上    | https://yun.hengy1.top/s/M2I8 | 07k973 |
 |    大二下    | https://yun.hengy1.top/s/EgHj | jjgc19 |
+|    大三上    | https://yun.hengy1.top/s/qWfD | kc91mw |
 | 数据结构期末 | https://yun.hengy1.top/s/YjHp | 7pefni |
 
 ##  新兵蛋子 🧪 
